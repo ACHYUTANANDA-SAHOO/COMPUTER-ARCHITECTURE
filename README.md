@@ -37,3 +37,15 @@ Consists of assembly language programs and programs pertaining to theory of Comp
 |23.		|[HLP - BINARY TO DECIMAL CONVERSION ](#exp23)<br/>	|VSCode - C |06-10-2022		|
 |24.		|[HLP - FINDING CPU PERFORMANCE OF A PROCESSOR](#exp24)<br/>	|VSCode - C |06-10-2022		|
 |25.		|[8085 - SWAP TWO 8-BIT DATA ](#exp25)<br/>	|GNUSim8085 |06-10-2022		|
+
+
+<h1 align="center"> OUTPUTS </h1>
+
+</div>
+
+## EXPERIMENT 1 : 
+File Link : [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/COMPUTER-ARCHITECTURE/blob/main/DAY%201%20LAB/Exp_1_8bitadd_8085.asm)<br/>
+Output : 
+![exp1](https://user-images.githubusercontent.com/113246116/193783287-6b360271-2725-4d00-aac9-4efd9b3927f9.png)
+
+

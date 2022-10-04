@@ -44,8 +44,22 @@ Consists of assembly language programs and programs pertaining to theory of Comp
 </div>
 
 ## EXPERIMENT 1 : 
+**AIM** : Write an assembly language program for adding two 8-bit data A7 A6 A5 A4 A3 A2 A1 A0 and B7 B6 B5 B4 B3 B2 B1 B0 using 8085 processor. <br/>
 File Link : [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/COMPUTER-ARCHITECTURE/blob/main/DAY%201%20LAB/Exp_1_8bitadd_8085.asm)<br/>
 Output : 
-![exp1](https://user-images.githubusercontent.com/113246116/193783287-6b360271-2725-4d00-aac9-4efd9b3927f9.png)
+![exp1](https://user-images.githubusercontent.com/113246116/193783287-6b360271-2725-4d00-aac9-4efd9b3927f9.png)<br/>
 
+## EXPERIMENT 5 : 
+**AIM** : Write an assembly language program for multiplication of two 8-bit data A7 A6 A5
+A4 A3 A2 A1 A0 and B7 B6 B5 B4 B3 B2 B1 B0 using 8085 processor. <br/>
+File Link : [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/COMPUTER-ARCHITECTURE/blob/main/DAY%201%20LAB/Exp_5_8bitmul_8085.asm)<br/>
+Output : 
+![exp5](https://user-images.githubusercontent.com/113246116/193784345-d486e017-3ff1-468c-81c8-e5afa1defb35.png)<br/>
+
+## EXPERIMENT 6 : 
+**AIM** : Write an assembly language program for division of two 8-bit data A7 A6 A5 A4 A3
+A2 A1 A0 and B7 B6 B5 B4 B3 B2 B1 B0 using 8085 processor. <br/>
+File Link : [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/COMPUTER-ARCHITECTURE/blob/main/DAY%201%20LAB/Exp_6_8bitdiv_8085.asm)<br/>
+Output : 
+![exp6](https://user-images.githubusercontent.com/113246116/193784554-b6ddb684-5f39-41ba-99b0-103364f5a793.png)<br/>
 

@@ -36,7 +36,7 @@ Consists of assembly language programs and programs pertaining to theory of Comp
 |19.		|[HLP - FINDING HIT RATIO ](#exp19)<br/>	|VSCode - C |05-10-2022		|
 | | **DAY - 4** | |  |
 |20.		|[ASSEMBLY LANGUAGE - 1'S AND 2'S COMPLEMENT ](#exp20)<br/>	|GNUSim8085 |06-10-2022		|Uploaded |
-|21.		|[HLP - DECIMAL TO BINARY CONVERSION ](#exp21)<br/>	|VSCode - C |06-10-2022		|
+|21.		|[HLP - DECIMAL TO BINARY CONVERSION ](#exp21)<br/>	|VSCode - C |06-10-2022		|Uploaded |
 |22.		|[HLP - DECIMAL TO OCTAL CONVERSION ](#exp22)<br/>	|VSCode - C |06-10-2022		|
 |23.		|[HLP - BINARY TO DECIMAL CONVERSION ](#exp23)<br/>	|VSCode - C |06-10-2022		|
 |24.		|[HLP - FINDING CPU PERFORMANCE OF A PROCESSOR](#exp24)<br/>	|VSCode - C |06-10-2022		|
@@ -117,15 +117,15 @@ Output :
 ## EXPERIMENT 21 : 
 **AIM** : Write a program to convert Decimal number to Binary number using any high level language <br/>
 File Link : [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/COMPUTER-ARCHITECTURE/blob/main/DAY%204%20LAB/exp_21_dec_to_din.c)<br/>
-Output : 
+Output : <br/>
 ![exp21](https://user-images.githubusercontent.com/113246116/194025746-a4f319a1-8ec6-4fe6-9aa3-59f9e44496b4.png)
 <br/>
 
 ## EXPERIMENT 22 : 
-**AIM** : Write an assembly language program to find 1’s and 2’s complement of 8 bit number <br/>
-File Link : [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/COMPUTER-ARCHITECTURE/blob/main/DAY%204%20LAB/exp_20_complements.asm)<br/>
-Output : 
-![complement](https://user-images.githubusercontent.com/113246116/194015811-c9839a03-45cd-4041-b9cb-7db4c5276d94.png)
+**AIM** : Write a program to convert Decimal number to an Octal number using any high level language. <br/>
+File Link : [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/COMPUTER-ARCHITECTURE/blob/main/DAY%204%20LAB/exp_22_dec_to_oct.c)<br/>
+Output : <br/>
+![exp22](https://user-images.githubusercontent.com/113246116/194033677-700992d1-e4dc-4dc2-8631-22ce55398968.png)
 <br/>
 
 ## EXPERIMENT 23 : 

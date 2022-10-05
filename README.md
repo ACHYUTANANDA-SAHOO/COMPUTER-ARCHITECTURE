@@ -31,7 +31,7 @@ Consists of assembly language programs and programs pertaining to theory of Comp
 |17.		|[HLP - BOOTH'S MULTIPLICATION - TWO SIGNED NUMBERS](#exp17)<br/>	|VSCode - C |05-10-2022		|
 |18.		|[HLP - RESTORING DIVISION ](#exp18)<br/>	|VSCode - C |05-10-2022		|
 |19.		|[HLP - FINDING HIT RATIO ](#exp19)<br/>	|VSCode - C |05-10-2022		|
-|20.		|[ASSEMBLY LANGUAGE - 1'S AND 2'S COMPLEMENT ](#exp20)<br/>	|GNUSim8085 |06-10-2022		|
+|20.		|[ASSEMBLY LANGUAGE - 1'S AND 2'S COMPLEMENT ](#exp20)<br/>	|GNUSim8085 |06-10-2022		|Uploaded |
 |21.		|[HLP - DECIMAL TO BINARY CONVERSION ](#exp21)<br/>	|VSCode - C |06-10-2022		|
 |22.		|[HLP - DECIMAL TO OCTAL CONVERSION ](#exp22)<br/>	|VSCode - C |06-10-2022		|
 |23.		|[HLP - BINARY TO DECIMAL CONVERSION ](#exp23)<br/>	|VSCode - C |06-10-2022		|
@@ -109,3 +109,12 @@ Output :
 ![complement](https://user-images.githubusercontent.com/113246116/194015811-c9839a03-45cd-4041-b9cb-7db4c5276d94.png)
 <br/>
 
+## EXPERIMENT 25 : 
+**AIM** :  Write an assembly language program to swap two 8-bit data using 8085 processor. <br/>
+File Link : [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/COMPUTER-ARCHITECTURE/blob/main/DAY%204%20LAB/exp_25_swap_num.asm)<br/>
+Output : 
+<br/> BEFORE SWAP : <br/> 
+![swap_before](https://user-images.githubusercontent.com/113246116/194017578-5d5317ec-f939-48de-b810-9756b93ceb11.png)
+<br/> AFTER SWAP : <br/> 
+![swap_after](https://user-images.githubusercontent.com/113246116/194017589-85d55ba3-5ed9-4c08-ba5c-91934511f6d8.png)
+<br/>

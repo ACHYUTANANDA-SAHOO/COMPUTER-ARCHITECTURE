@@ -23,8 +23,8 @@ Consists of assembly language programs and programs pertaining to theory of Comp
 |9.		|[IMPLEMENTING 2 BIT HALF ADDER ](#exp9)<br/>	|LogiSim |04-10-2022		|Uploaded |
 |10.		|[IMPLEMENTING 3 BIT FULL ADDER ](#exp10)<br/>	|LogiSim |04-10-2022		|Uploaded |
 |11.		|[IMPLEMENTING 2 BIT HALF ADDER WITH NAND GATES ](#exp11)<br/>	|LogiSim |04-10-2022		|Uploaded |
-|12.		|[ASSEMBLY LANGUAGE - Factorial of a Number ](#exp12)<br/>	|GNUSim8085 |04-10-2022		|
-|13.		|[ASSEMBLY LANGUAGE - Largest Number in an Array ](#exp13)<br/>	|GNUSim8085 |04-10-2022		|
+|12.		|[ASSEMBLY LANGUAGE - Factorial of a Number ](#exp12)<br/>	|GNUSim8085 |04-10-2022		|Uploaded |
+|13.		|[ASSEMBLY LANGUAGE - Largest Number in an Array ](#exp13)<br/>	|GNUSim8085 |04-10-2022		|Uploaded |
 |14.		|[HLP - 2 STAGE PIPELINE FOR ADDITION AND SUBTRACTION ](#exp14)<br/>	|VSCode - C |05-10-2022		|
 |15.		|[HLP - 3 STAGE PIPELINE FOR AND, OR & NAND ](#exp15)<br/>	|VSCode - C |05-10-2022		|
 |16.		|[HLP - 4 STAGE PIPELINE FOR MULTIPLICATION & DIVISION ](#exp16)<br/>	|VSCode - C |05-10-2022		|
@@ -87,4 +87,18 @@ Output :
 File Link : [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/COMPUTER-ARCHITECTURE/blob/main/DAY%202%20LAB/exp_11_HA_NAND.circ)<br/>
 Output : 
 ![2_BIT_HA_NAND](https://user-images.githubusercontent.com/113246116/194001599-26dff8d7-10af-4e1d-8758-2a8fb1294d0f.png)<br/>
+
+## EXPERIMENT 12 : 
+**AIM** : Write an assembly language program to find factorial of n in the given number. <br/>
+File Link : [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/COMPUTER-ARCHITECTURE/blob/main/DAY%202%20LAB/exp_12_factorial.asm)<br/>
+Output : 
+![exp_fac](https://user-images.githubusercontent.com/113246116/194008586-39874916-f51c-460c-80b6-e30ca5d9b906.png)
+<br/>
+
+## EXPERIMENT 13 : 
+**AIM** : Write an assembly language program to find the largest number in an array. <br/>
+File Link : [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/COMPUTER-ARCHITECTURE/blob/main/DAY%202%20LAB/exp_13_largest_num.asm)<br/>
+Output : 
+![largest_num](https://user-images.githubusercontent.com/113246116/194010807-f73701c2-13f7-4988-b7e0-bc2fdbfa6134.png)
+<br/>
 

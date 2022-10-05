@@ -59,6 +59,21 @@ File Link : [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/COMPUTER-
 Output : 
 ![exp2](https://user-images.githubusercontent.com/113246116/193996955-09d1ed74-3f2f-4768-822a-ee26648e8b07.png)<br/>
 
+## EXPERIMENT 3 : 
+**AIM** : Write an assembly language program for adding two 16-bit data using 8086 processor. <br/>
+File Link : [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/COMPUTER-ARCHITECTURE/blob/main/DAY%201%20LAB/Exp_3_16bit_add_8086)<br/>
+Output : 
+![exp3](https://user-images.githubusercontent.com/113246116/194113119-21bc9c27-5cb1-478c-a6c5-e5775d909436.png)
+<br/>
+
+## EXPERIMENT 4 : 
+**AIM** : Write an assembly language program for subtracting two 16-bit data using 8086 processor.<br/>
+File Link : [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/COMPUTER-ARCHITECTURE/blob/main/DAY%201%20LAB/Exp_4_16bit_sub_8086)<br/>
+Output : 
+![exp4](https://user-images.githubusercontent.com/113246116/194113432-33b6c0a5-f212-4d09-9676-474d7f18cabd.png)
+<br/>
+
+
 ## EXPERIMENT 5 : 
 **AIM** : Write an assembly language program for multiplication of two 8-bit data A7 A6 A5
 A4 A3 A2 A1 A0 and B7 B6 B5 B4 B3 B2 B1 B0 using 8085 processor. <br/>
@@ -72,6 +87,13 @@ A2 A1 A0 and B7 B6 B5 B4 B3 B2 B1 B0 using 8085 processor. <br/>
 File Link : [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/COMPUTER-ARCHITECTURE/blob/main/DAY%201%20LAB/Exp_6_8bitdiv_8085.asm)<br/>
 Output : 
 ![exp6](https://user-images.githubusercontent.com/113246116/193784554-b6ddb684-5f39-41ba-99b0-103364f5a793.png)<br/>
+
+## EXPERIMENT 7 : 
+**AIM** : Write an assembly language program for multiplying two 16-bit data using 8086 processor. <br/>
+File Link : [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/COMPUTER-ARCHITECTURE/blob/main/DAY%201%20LAB/Exp_7_16_bit_mul_8086)<br/>
+Output : 
+![exp7](https://user-images.githubusercontent.com/113246116/194114442-ef0835e1-3392-4e31-882f-373c1f90ab72.png)
+<br/>
 
 ## EXPERIMENT 9 : 
 **AIM** : Design and implement 2-bit half adder using logisim simulator. <br/>

@@ -37,7 +37,7 @@ Consists of assembly language programs and programs pertaining to theory of Comp
 | | **DAY - 4** | |  |
 |20.		|[ASSEMBLY LANGUAGE - 1'S AND 2'S COMPLEMENT ](#exp20)<br/>	|GNUSim8085 |06-10-2022		|Uploaded |
 |21.		|[HLP - DECIMAL TO BINARY CONVERSION ](#exp21)<br/>	|VSCode - C |06-10-2022		|Uploaded |
-|22.		|[HLP - DECIMAL TO OCTAL CONVERSION ](#exp22)<br/>	|VSCode - C |06-10-2022		|
+|22.		|[HLP - DECIMAL TO OCTAL CONVERSION ](#exp22)<br/>	|VSCode - C |06-10-2022		|Uploaded |
 |23.		|[HLP - BINARY TO DECIMAL CONVERSION ](#exp23)<br/>	|VSCode - C |06-10-2022		|
 |24.		|[HLP - FINDING CPU PERFORMANCE OF A PROCESSOR](#exp24)<br/>	|VSCode - C |06-10-2022		|
 |25.		|[8085 - SWAP TWO 8-BIT DATA ](#exp25)<br/>	|GNUSim8085 |06-10-2022		|Uploaded |

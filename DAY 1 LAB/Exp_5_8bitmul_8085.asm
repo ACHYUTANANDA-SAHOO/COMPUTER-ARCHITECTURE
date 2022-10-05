@@ -1,10 +1,14 @@
-;8 BIT MULTIPLICATION
-LDA 1000H  ; Fetched the Multiplicand
-MOV A,B
-LDA 1001H  ; Fetched the Multiplier
-MOV D,A
-MVI A,00H  ; Cleared the Acuumulator for multiple addition of the Multiplicand
-L1: ADD B
-DCR D
-JNZ L1     ; Repeated Addition for multiplication
-STA 1010H
+; 8 BIT MULTIPLICATION
+LDA 8500	       
+MOV B,A	         
+LDA 8501	    
+MOV C,A	      
+CPI 00	        
+JZ LOOP	         
+XRA A	         
+LOOP1: ADD B  	
+DCR C	       
+JZ LOOP	       
+JMP LOOP1	
+LOOP: STA 8502	
+HLT

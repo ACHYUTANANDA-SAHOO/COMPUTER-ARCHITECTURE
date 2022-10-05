@@ -12,6 +12,7 @@ Consists of assembly language programs and programs pertaining to theory of Comp
 
 |Exp.No 		|Expermiment Title & Link  	|Language/Software Used |Date Of Experiment	|Status |
 |:---:|:---:|:---:|:---:|:---:|
+| | **DAY - 1** | |  |
 |1.		|[8085 - 8 BIT ADDITION ](#exp1)	|GNUSim8085 |03-10-2022		|Uploaded |
 |2.		|[8085 - 8 BIT SUBTRACTION ](#exp2)<br/>	|GNUSim8085 |03-10-2022		|Uploaded |
 |3.		|[8086 - 16 BIT ADDITION ](#exp3)<br/>	| |03-10-2022		|
@@ -19,24 +20,27 @@ Consists of assembly language programs and programs pertaining to theory of Comp
 |5.		|[8085 - 8 BIT MULTIPLICATION ](#exp5)<br/>	|GNUSim8085 |03-10-2022		|Uploaded |
 |6		|[8085 - 8 BIT DIVISION ](#exp6)<br/>	|GNUSim8085 |03-10-2022		|Uploaded |
 |7.		|[8086 - 16 BIT MULTIPLICATION ](#exp7)<br/>	| |03-10-2022		|
+| | **DAY - 2** ||  |
 |8.		|[8086 - 16 BIT DIVISION ](#exp8)<br/>	| |04-10-2022		|
 |9.		|[IMPLEMENTING 2 BIT HALF ADDER ](#exp9)<br/>	|LogiSim |04-10-2022		|Uploaded |
 |10.		|[IMPLEMENTING 3 BIT FULL ADDER ](#exp10)<br/>	|LogiSim |04-10-2022		|Uploaded |
 |11.		|[IMPLEMENTING 2 BIT HALF ADDER WITH NAND GATES ](#exp11)<br/>	|LogiSim |04-10-2022		|Uploaded |
 |12.		|[ASSEMBLY LANGUAGE - Factorial of a Number ](#exp12)<br/>	|GNUSim8085 |04-10-2022		|Uploaded |
 |13.		|[ASSEMBLY LANGUAGE - Largest Number in an Array ](#exp13)<br/>	|GNUSim8085 |04-10-2022		|Uploaded |
+| | **DAY - 3** | |  |
 |14.		|[HLP - 2 STAGE PIPELINE FOR ADDITION AND SUBTRACTION ](#exp14)<br/>	|VSCode - C |05-10-2022		|
 |15.		|[HLP - 3 STAGE PIPELINE FOR AND, OR & NAND ](#exp15)<br/>	|VSCode - C |05-10-2022		|
 |16.		|[HLP - 4 STAGE PIPELINE FOR MULTIPLICATION & DIVISION ](#exp16)<br/>	|VSCode - C |05-10-2022		|
 |17.		|[HLP - BOOTH'S MULTIPLICATION - TWO SIGNED NUMBERS](#exp17)<br/>	|VSCode - C |05-10-2022		|
 |18.		|[HLP - RESTORING DIVISION ](#exp18)<br/>	|VSCode - C |05-10-2022		|
 |19.		|[HLP - FINDING HIT RATIO ](#exp19)<br/>	|VSCode - C |05-10-2022		|
+| | **DAY - 4** | |  |
 |20.		|[ASSEMBLY LANGUAGE - 1'S AND 2'S COMPLEMENT ](#exp20)<br/>	|GNUSim8085 |06-10-2022		|Uploaded |
 |21.		|[HLP - DECIMAL TO BINARY CONVERSION ](#exp21)<br/>	|VSCode - C |06-10-2022		|
 |22.		|[HLP - DECIMAL TO OCTAL CONVERSION ](#exp22)<br/>	|VSCode - C |06-10-2022		|
 |23.		|[HLP - BINARY TO DECIMAL CONVERSION ](#exp23)<br/>	|VSCode - C |06-10-2022		|
 |24.		|[HLP - FINDING CPU PERFORMANCE OF A PROCESSOR](#exp24)<br/>	|VSCode - C |06-10-2022		|
-|25.		|[8085 - SWAP TWO 8-BIT DATA ](#exp25)<br/>	|GNUSim8085 |06-10-2022		|
+|25.		|[8085 - SWAP TWO 8-BIT DATA ](#exp25)<br/>	|GNUSim8085 |06-10-2022		|Uploaded |
 
 
 <h1 align="center"> OUTPUTS </h1>
@@ -103,6 +107,28 @@ Output :
 <br/>
 
 ## EXPERIMENT 20 : 
+**AIM** : Write an assembly language program to find 1’s and 2’s complement of 8 bit number <br/>
+File Link : [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/COMPUTER-ARCHITECTURE/blob/main/DAY%204%20LAB/exp_20_complements.asm)<br/>
+Output : 
+![complement](https://user-images.githubusercontent.com/113246116/194015811-c9839a03-45cd-4041-b9cb-7db4c5276d94.png)
+<br/>
+
+
+## EXPERIMENT 21 : 
+**AIM** : Write a program to convert Decimal number to Binary number using any high level language <br/>
+File Link : [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/COMPUTER-ARCHITECTURE/blob/main/DAY%204%20LAB/exp_21_dec_to_din.c)<br/>
+Output : 
+![exp21](https://user-images.githubusercontent.com/113246116/194025746-a4f319a1-8ec6-4fe6-9aa3-59f9e44496b4.png)
+<br/>
+
+## EXPERIMENT 22 : 
+**AIM** : Write an assembly language program to find 1’s and 2’s complement of 8 bit number <br/>
+File Link : [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/COMPUTER-ARCHITECTURE/blob/main/DAY%204%20LAB/exp_20_complements.asm)<br/>
+Output : 
+![complement](https://user-images.githubusercontent.com/113246116/194015811-c9839a03-45cd-4041-b9cb-7db4c5276d94.png)
+<br/>
+
+## EXPERIMENT 23 : 
 **AIM** : Write an assembly language program to find 1’s and 2’s complement of 8 bit number <br/>
 File Link : [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/COMPUTER-ARCHITECTURE/blob/main/DAY%204%20LAB/exp_20_complements.asm)<br/>
 Output : 

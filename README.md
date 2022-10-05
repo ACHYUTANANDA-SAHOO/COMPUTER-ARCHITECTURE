@@ -102,3 +102,10 @@ Output :
 ![largest_num](https://user-images.githubusercontent.com/113246116/194010807-f73701c2-13f7-4988-b7e0-bc2fdbfa6134.png)
 <br/>
 
+## EXPERIMENT 20 : 
+**AIM** : Write an assembly language program to find 1’s and 2’s complement of 8 bit number <br/>
+File Link : [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/COMPUTER-ARCHITECTURE/blob/main/DAY%204%20LAB/exp_20_complements.asm)<br/>
+Output : 
+![complement](https://user-images.githubusercontent.com/113246116/194015811-c9839a03-45cd-4041-b9cb-7db4c5276d94.png)
+<br/>
+

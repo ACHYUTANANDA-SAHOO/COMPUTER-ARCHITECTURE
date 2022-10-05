@@ -15,13 +15,13 @@ Consists of assembly language programs and programs pertaining to theory of Comp
 | | **DAY - 1** | |  |
 |1.		|[8085 - 8 BIT ADDITION ](#exp1)	|GNUSim8085 |03-10-2022		|Uploaded |
 |2.		|[8085 - 8 BIT SUBTRACTION ](#exp2)<br/>	|GNUSim8085 |03-10-2022		|Uploaded |
-|3.		|[8086 - 16 BIT ADDITION ](#exp3)<br/>	| |03-10-2022		|Uploaded |
-|4.		|[8086 - 16 BIT SUBTRACTION ](#exp3)<br/>	| |03-10-2022		|Uploaded |
+|3.		|[8086 - 16 BIT ADDITION ](#exp3)<br/>	|Online 8086 Emulator |03-10-2022		|Uploaded |
+|4.		|[8086 - 16 BIT SUBTRACTION ](#exp3)<br/>	|Online 8086 Emulator |03-10-2022		|Uploaded |
 |5.		|[8085 - 8 BIT MULTIPLICATION ](#exp5)<br/>	|GNUSim8085 |03-10-2022		|Uploaded |
 |6		|[8085 - 8 BIT DIVISION ](#exp6)<br/>	|GNUSim8085 |03-10-2022		|Uploaded |
-|7.		|[8086 - 16 BIT MULTIPLICATION ](#exp7)<br/>	| |03-10-2022		|Uploaded |
+|7.		|[8086 - 16 BIT MULTIPLICATION ](#exp7)<br/>	|Online 8086 Emulator |03-10-2022		|Uploaded |
 | | **DAY - 2** ||  |
-|8.		|[8086 - 16 BIT DIVISION ](#exp8)<br/>	| |04-10-2022		|
+|8.		|[8086 - 16 BIT DIVISION ](#exp8)<br/>	|Online 8086 Emulator |04-10-2022		|
 |9.		|[IMPLEMENTING 2 BIT HALF ADDER ](#exp9)<br/>	|LogiSim |04-10-2022		|Uploaded |
 |10.		|[IMPLEMENTING 3 BIT FULL ADDER ](#exp10)<br/>	|LogiSim |04-10-2022		|Uploaded |
 |11.		|[IMPLEMENTING 2 BIT HALF ADDER WITH NAND GATES ](#exp11)<br/>	|LogiSim |04-10-2022		|Uploaded |

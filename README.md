@@ -21,7 +21,7 @@ Consists of assembly language programs and programs pertaining to theory of Comp
 |6		|[8085 - 8 BIT DIVISION ](#exp6)<br/>	|GNUSim8085 |03-10-2022		|Uploaded |
 |7.		|[8086 - 16 BIT MULTIPLICATION ](#exp7)<br/>	|Online 8086 Emulator |03-10-2022		|Uploaded |
 | | **DAY - 2** ||  |
-|8.		|[8086 - 16 BIT DIVISION ](#exp8)<br/>	|Online 8086 Emulator |04-10-2022		|
+|8.		|[8086 - 16 BIT DIVISION ](#exp8)<br/>	|Online 8086 Emulator |04-10-2022		|Uploaded |
 |9.		|[IMPLEMENTING 2 BIT HALF ADDER ](#exp9)<br/>	|LogiSim |04-10-2022		|Uploaded |
 |10.		|[IMPLEMENTING 3 BIT FULL ADDER ](#exp10)<br/>	|LogiSim |04-10-2022		|Uploaded |
 |11.		|[IMPLEMENTING 2 BIT HALF ADDER WITH NAND GATES ](#exp11)<br/>	|LogiSim |04-10-2022		|Uploaded |
@@ -85,14 +85,22 @@ Output :
 **AIM** : Write an assembly language program for division of two 8-bit data A7 A6 A5 A4 A3
 A2 A1 A0 and B7 B6 B5 B4 B3 B2 B1 B0 using 8085 processor. <br/>
 File Link : [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/COMPUTER-ARCHITECTURE/blob/main/DAY%201%20LAB/Exp_6_8bitdiv_8085.asm)<br/>
-Output : 
+Output : <br/>
 ![exp6](https://user-images.githubusercontent.com/113246116/193784554-b6ddb684-5f39-41ba-99b0-103364f5a793.png)<br/>
 
 ## EXPERIMENT 7 : 
 **AIM** : Write an assembly language program for multiplying two 16-bit data using 8086 processor. <br/>
 File Link : [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/COMPUTER-ARCHITECTURE/blob/main/DAY%201%20LAB/Exp_7_16_bit_mul_8086)<br/>
-Output : 
+Output : <br/>
 ![exp7](https://user-images.githubusercontent.com/113246116/194114442-ef0835e1-3392-4e31-882f-373c1f90ab72.png)
+<br/>
+
+
+## EXPERIMENT 8 : 
+**AIM** : Write an assembly language program for dividing two 16-bit data using 8086 processor <br/>
+File Link : [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/COMPUTER-ARCHITECTURE/blob/main/DAY%202%20LAB/exp_8_16bit_div_8086)<br/>
+Output : 
+![exp8](https://user-images.githubusercontent.com/113246116/194121208-fd18f410-a99b-4565-ac42-70bdd6df6230.png)
 <br/>
 
 ## EXPERIMENT 9 : 

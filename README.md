@@ -30,7 +30,7 @@ Consists of assembly language programs and programs pertaining to theory of Comp
 | | **DAY - 3** | |  |
 |14.		|[HLP - 2 STAGE PIPELINE FOR ADDITION AND SUBTRACTION ](#exp14)<br/>	|VSCode - C |05-10-2022		|Uploaded  |
 |15.		|[HLP - 3 STAGE PIPELINE FOR AND, OR & NAND ](#exp15)<br/>	|VSCode - C |05-10-2022		|
-|16.		|[HLP - 4 STAGE PIPELINE FOR MULTIPLICATION & DIVISION ](#exp16)<br/>	|VSCode - C |05-10-2022		|
+|16.		|[HLP - 4 STAGE PIPELINE FOR MULTIPLICATION & DIVISION ](#exp16)<br/>	|VSCode - C |05-10-2022		|Uploaded |
 |17.		|[HLP - BOOTH'S MULTIPLICATION - TWO SIGNED NUMBERS](#exp17)<br/>	|VSCode - C |05-10-2022		|
 |18.		|[HLP - RESTORING DIVISION ](#exp18)<br/>	|VSCode - C |05-10-2022		|
 |19.		|[HLP - FINDING HIT RATIO ](#exp19)<br/>	|VSCode - C |05-10-2022		|
@@ -152,9 +152,9 @@ Output :
 
 ## EXPERIMENT 16 : 
 **AIM** : Design of 4 stage pipeline for multiplication and division of two numbers using any high level language <br/>
-File Link : [FILE - CLICK HERE ]()<br/>
-Output : 
-
+File Link : [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/COMPUTER-ARCHITECTURE/blob/main/DAY%203%20LAB/exp_16_4_stage_pipeline.c)<br/>
+Output : <br/>
+![exp_16](https://user-images.githubusercontent.com/113246116/194558312-963e25b7-4feb-447c-ab30-e32a03d36d95.png)
 <br/>
 
 ## EXPERIMENT 20 : 

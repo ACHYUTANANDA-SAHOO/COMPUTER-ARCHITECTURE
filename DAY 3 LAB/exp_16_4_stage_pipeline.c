@@ -10,11 +10,11 @@ void pipeline(int inst_){
         for(int j = 0; j<space; j++){
             printf(" ");
         }
-        printf("|   IF  |   D   |   E   |\n");
+        printf("|   IF  |   D   |   E   |   W   |\n");
         for(int j = 0; j<space; j++){
             printf(" ");
         }
-        printf("        \t-------------------------\n");
+        printf("        \t---------------------------------\n");
         space+=8;
     }
 }
@@ -26,7 +26,7 @@ int main(){
     int clock = 0;
     int inst_;
     int inst_2;
-    int stage_ = 3; // for two stage pipeline
+    int stage_ = 4; // for two stage pipeline
 
     printf("Clock time of the System : ");
     scanf("%d", &clock_time);

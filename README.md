@@ -33,7 +33,7 @@ Consists of assembly language programs and programs pertaining to theory of Comp
 |16.		|[HLP - 4 STAGE PIPELINE FOR MULTIPLICATION & DIVISION ](#exp16)<br/>	|VSCode - C |05-10-2022		|Uploaded |
 |17.		|[HLP - BOOTH'S MULTIPLICATION - TWO SIGNED NUMBERS](#exp17)<br/>	|VSCode - C |05-10-2022		|
 |18.		|[HLP - RESTORING DIVISION ](#exp18)<br/>	|VSCode - C |05-10-2022		|
-|19.		|[HLP - FINDING HIT RATIO ](#exp19)<br/>	|VSCode - C |05-10-2022		|
+|19.		|[HLP - FINDING HIT RATIO ](#exp19)<br/>	|VSCode - C |05-10-2022		|Uploaded |
 | | **DAY - 4** | |  |
 |20.		|[ASSEMBLY LANGUAGE - 1'S AND 2'S COMPLEMENT ](#exp20)<br/>	|GNUSim8085 |06-10-2022		|Uploaded |
 |21.		|[HLP - DECIMAL TO BINARY CONVERSION ](#exp21)<br/>	|VSCode - C |06-10-2022		|Uploaded |
@@ -155,6 +155,13 @@ Output : <br/>
 File Link : [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/COMPUTER-ARCHITECTURE/blob/main/DAY%203%20LAB/exp_16_4_stage_pipeline.c)<br/>
 Output : <br/>
 ![exp_16](https://user-images.githubusercontent.com/113246116/194558312-963e25b7-4feb-447c-ab30-e32a03d36d95.png)
+<br/>
+
+## EXPERIMENT 19 : 
+**AIM** : Write a program to find the Hit ratio for the given number of Hits and Misses in Cache memory using any high level language. <br/>
+File Link : [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/COMPUTER-ARCHITECTURE/blob/main/DAY%203%20LAB/exp_19_hitratio.c)<br/>
+Output : <br/>
+![exp_19](https://user-images.githubusercontent.com/113246116/194573938-6fa58e99-b8a3-469f-992f-f13d8c2ddba5.png)
 <br/>
 
 ## EXPERIMENT 20 : 

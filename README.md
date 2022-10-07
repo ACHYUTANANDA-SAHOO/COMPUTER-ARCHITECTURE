@@ -29,7 +29,7 @@ Consists of assembly language programs and programs pertaining to theory of Comp
 |13.		|[ASSEMBLY LANGUAGE - Largest Number in an Array ](#exp13)<br/>	|GNUSim8085 |04-10-2022		|Uploaded |
 | | **DAY - 3** | |  |
 |14.		|[HLP - 2 STAGE PIPELINE FOR ADDITION AND SUBTRACTION ](#exp14)<br/>	|VSCode - C |05-10-2022		|Uploaded  |
-|15.		|[HLP - 3 STAGE PIPELINE FOR AND, OR & NAND ](#exp15)<br/>	|VSCode - C |05-10-2022		|
+|15.		|[HLP - 3 STAGE PIPELINE FOR AND, OR & NAND ](#exp15)<br/>	|VSCode - C |05-10-2022		|Uploaded |
 |16.		|[HLP - 4 STAGE PIPELINE FOR MULTIPLICATION & DIVISION ](#exp16)<br/>	|VSCode - C |05-10-2022		|Uploaded |
 |17.		|[HLP - BOOTH'S MULTIPLICATION - TWO SIGNED NUMBERS](#exp17)<br/>	|VSCode - C |05-10-2022		|
 |18.		|[HLP - RESTORING DIVISION ](#exp18)<br/>	|VSCode - C |05-10-2022		|
@@ -145,9 +145,9 @@ Output : <br/>
 
 ## EXPERIMENT 15 : 
 **AIM** : Design of 3 stage pipeline for AND, OR, NAND of two numbers using any high level language. <br/>
-File Link : [FILE - CLICK HERE ]()<br/>
-Output : 
-
+File Link : [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/COMPUTER-ARCHITECTURE/blob/main/DAY%203%20LAB/exp_15_3_stage_pipeline.c)<br/>
+Output : <br/>
+![exp_15](https://user-images.githubusercontent.com/113246116/194562748-566371c5-bd08-4427-8607-6b261b453c3b.png)
 <br/>
 
 ## EXPERIMENT 16 : 

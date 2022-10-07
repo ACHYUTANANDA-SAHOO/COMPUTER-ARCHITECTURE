@@ -39,7 +39,7 @@ Consists of assembly language programs and programs pertaining to theory of Comp
 |21.		|[HLP - DECIMAL TO BINARY CONVERSION ](#exp21)<br/>	|VSCode - C |06-10-2022		|Uploaded |
 |22.		|[HLP - DECIMAL TO OCTAL CONVERSION ](#exp22)<br/>	|VSCode - C |06-10-2022		|Uploaded |
 |23.		|[HLP - BINARY TO DECIMAL CONVERSION ](#exp23)<br/>	|VSCode - C |06-10-2022		|Uploaded |
-|24.		|[HLP - FINDING CPU PERFORMANCE OF A PROCESSOR](#exp24)<br/>	|VSCode - C |06-10-2022		|
+|24.		|[HLP - FINDING CPU PERFORMANCE OF A PROCESSOR](#exp24)<br/>	|VSCode - C |06-10-2022		|Uploaded |
 |25.		|[8085 - SWAP TWO 8-BIT DATA ](#exp25)<br/>	|GNUSim8085 |06-10-2022		|Uploaded |
 
 
@@ -184,6 +184,13 @@ Output : <br/>
 File Link : [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/COMPUTER-ARCHITECTURE/blob/main/DAY%204%20LAB/exp_23_bin_to_dec.c)<br/>
 Output : <br/>
 ![exp23](https://user-images.githubusercontent.com/113246116/194037781-47c1b8b8-034e-4611-aa13-8f8b82c7886a.png)
+<br/>
+
+## EXPERIMENT 24 : 
+**AIM** : Write a program to find the CPU performance of a processor using any high level language. <br/>
+File Link : [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/COMPUTER-ARCHITECTURE/blob/main/DAY%204%20LAB/exp_24_cpu_performance.c)<br/>
+Output : <br/>
+![exp_24](https://user-images.githubusercontent.com/113246116/194571067-d403118c-e2ae-4e34-95fa-5f33f2f66785.png)
 <br/>
 
 ## EXPERIMENT 25 : 
